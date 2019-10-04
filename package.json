@@ -1,0 +1,20 @@
+{
+  "name": "unnatainable-engines-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "Ruy Adorno",
+  "engines": {
+    "node": ">=999999"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "semver": "^6.3.0"
+  }
+}
